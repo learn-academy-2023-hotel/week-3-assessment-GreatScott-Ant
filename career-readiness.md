@@ -10,6 +10,7 @@ Wire frames are used to outline the basic structure of your site. Wire frames sh
 
 Submit the link to your wire frames:
 
+https://www.figma.com/file/ue6UGTv7UH4CsnTD8jWxRd/Portfolio-Blueprint?type=design&node-id=0%3A1&mode=design&t=XbC9rBD6wJRPEax2-1
 
 ### LinkedIn
 
@@ -17,6 +18,6 @@ Your LinkedIn url:
 
 Check the boxes below to certify that you have completed the following items on LinkedIn:
 
-- [ ] create a new post about your first three weeks at LEARN. Topics can include (but are not limited to) React, projects you created, sharing a project you created, wire frames, or portfolios.
-- [ ] add at least ten more professional connections. Connections can include your cohort mates, LEARN alumni, LEARN staff, following companies of interest, friends and family, and former coworkers.
-- [ ] react (like, celebrate, comment, etc) to ten posts from your existing connections.
+- [✅] create a new post about your first three weeks at LEARN. Topics can include (but are not limited to) React, projects you created, sharing a project you created, wire frames, or portfolios.
+- [✅] add at least ten more professional connections. Connections can include your cohort mates, LEARN alumni, LEARN staff, following companies of interest, friends and family, and former coworkers.
+- [✅] react (like, celebrate, comment, etc) to ten posts from your existing connections.
